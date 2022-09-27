@@ -1,5 +1,3 @@
-/* COP 3502C Assignment 2
- This program is written by: Hong Thy Nguyen*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -9,7 +7,7 @@
 #define TIMEPERITEM = 5;
 #define TIMEPERCUSTOMER = 30;
 #define MAXTIME = 1000000000;
-//#include "leak_detector_c.h";
+
 
 
 typedef struct customer {
